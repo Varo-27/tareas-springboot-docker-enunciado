@@ -20,6 +20,7 @@ buildNumber.properties
 .settings/
 .factorypath
 .springBeans
+.env
 
 # VS Code
 .vscode/
